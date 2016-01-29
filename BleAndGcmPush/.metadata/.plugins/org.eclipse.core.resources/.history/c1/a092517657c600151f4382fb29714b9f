@@ -1,0 +1,5 @@
+package com.example.blesample2;
+
+public class UpdateReceiver extends BroadcastReceiver {
+
+}
